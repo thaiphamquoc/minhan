@@ -1,0 +1,23 @@
+*.DS_Store
+.idea/*
+*.iml
+.settings/*
+.mvn/*
+*.patch
+
+target/*
+*/target/*
+
+# Scala IDE
+**/.cache-main
+
+# Scalatest
+**/.cache-tests
+
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings
+
+**/.cache-main
