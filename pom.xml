@@ -19,7 +19,7 @@
     <properties>
         <junit.version>4.12</junit.version>
         <json4s.version>3.2.11</json4s.version>
-        <scala.version>2.11.8</scala.version>
+        <scala.version>2.13.1</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
         <scala.mock.version>3.6.0</scala.mock.version>
         <scala.test.version>3.0.1</scala.test.version>
